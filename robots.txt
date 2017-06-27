@@ -1,9 +1,7 @@
 User-Agent: *
 Disallow: /
-Disallow: /social-snapchat-outline.svg
-Disallow: /social-twitter-outline.svg
-Disallow: /ios-close-empty.svg
+Disallow: /info.png
+Disallow: /john.jpg
+Disallow: /mail.svg
 Disallow: /index.html
-Disallow: /twitter.html
-Disallow: /snapchat.html
-Disallow: /love.html
+Disallow: /student.svg
