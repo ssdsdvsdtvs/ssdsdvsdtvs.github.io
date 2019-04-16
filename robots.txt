@@ -1,7 +1,0 @@
-User-Agent: *
-Disallow: /
-Disallow: /info.png
-Disallow: /john.jpg
-Disallow: /mail.svg
-Disallow: /index.html
-Disallow: /student.svg
